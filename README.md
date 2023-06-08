@@ -1,2 +1,2 @@
 # html-css
-html-css-template-oe
+html-css-template-one
